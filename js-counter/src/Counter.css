@@ -1,0 +1,12 @@
+.Counter {
+    display: inline-block;
+}
+
+.elements {
+    padding: 20px;
+}
+
+.input {
+    width: auto;
+    text-align: center;
+}
